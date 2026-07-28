@@ -78,7 +78,7 @@ for how it stays scoped to the right windows in that case.
 Search for **Explorer Status Bar Metadata** in the [Windhawk](https://windhawk.net/) application catalog and click **Install**.
 
 ### Option 2: Manual Installation
-1. Copy the source code from [`explorer-status-metadata.wh.cpp`](https://github.com/ramensoftware/windhawk-mods/blob/main/mods/explorer-status-metadata.wh.cpp)[cite: 1].
+1. Copy the source code from [`explorer-status-metadata.wh.cpp`](https://github.com/ramensoftware/windhawk-mods/blob/main/mods/explorer-status-metadata.wh.cpp).
 2. Open Windhawk and click **Create a New Mod** at the bottom of the window.
 3. Paste the code and click **Compile Mod**.
 
