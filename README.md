@@ -67,7 +67,7 @@ for how it stays scoped to the right windows in that case.
 
 ## Known limitations
 
-- Preview Pane background/text fix only applies to `explorer.exe` and
+- Preview Pane background fix only applies to `explorer.exe` and
   `prevhost.exe`; not yet verified in other Inclusion List processes.
 - Requires `DUI70.dll` internals resolved by decorated C++ export names,
   which are undocumented and could change in a future Windows build.
