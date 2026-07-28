@@ -65,10 +65,6 @@ for how it stays scoped to the right windows in that case.
 | `previewPaneBgColor` | Preview Pane background color (RRGGBB)                   |
 | `progressRadius`     | Corner radius for disk usage progress bars               |
 
-(Exact setting names/defaults are defined in the `// ==WindhawkModSettings==`
-block in the mod file — check there before publishing, in case any were
-renamed during development.)
-
 ## Known limitations
 
 - Preview Pane background/text fix only applies to `explorer.exe` and
